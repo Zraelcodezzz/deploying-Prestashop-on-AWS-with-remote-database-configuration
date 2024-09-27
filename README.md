@@ -1,6 +1,7 @@
 # deploying-Prestashop-on-AWS-with-remote-database-configuration
 This repository contains a guide for deploying PrestaShop on an Amazon Web Services (AWS) instance using the Free Tier.Notably, the setup ensures that the database is hosted separately from the application server.
- then nav
+
+ 
 **STEP 1 : EC2 SETUP AND LAUNCH**
 i.Login into AWS managment console or create an AWS account if you don't have one then sign in and navigate to AWS management console.
 ii.Now let's create an ec2 instance,click on ec2  on the left pane then click on launch instance.You should have this webpage now name your instance.
